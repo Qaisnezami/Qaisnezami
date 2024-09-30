@@ -34,13 +34,13 @@ Welcome to my GitHub profile! I'm a **Full-Stack Web Developer** with over 5 yea
 
 ### 💼 Connect with Me
 
-- **Website**: [Your Personal Website]
-- **YouTube**: [Your YouTube Channel]
-- **LinkedIn**: [Your LinkedIn Profile]
-- **Twitter**: [Your Twitter Handle]
+- **Website**: (https://qaisnezami.com/),http://afghanacademy.co/
+- **YouTube**: https://www.youtube.com/@afghanacademy6168
+- **LinkedIn**: (https://www.linkedin.com/in/qais-nezami-ba1558198/)
 
 ### 📊 GitHub Stats
 
 ![Qais Nezami's GitHub Stats](https://github-readme-stats.vercel.app/api?username=qaisnezami&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=qaisnezami&layout=compact&theme=radical)
 
 Thanks for visiting! Feel free to check out my repositories and reach out if you'd like to collaborate on exciting projects.
