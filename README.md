@@ -34,7 +34,8 @@ Welcome to my GitHub profile! I'm a **Full-Stack Web Developer** with over 5 yea
 
 ### 💼 Connect with Me
 
-- **Website**: (https://qaisnezami.com/),http://afghanacademy.co/
+- **Website**: (https://qaisnezami.com/)
+- **Teaching Website**: http://afghanacademy.co/
 - **YouTube**: https://www.youtube.com/@afghanacademy6168
 - **LinkedIn**: (https://www.linkedin.com/in/qais-nezami-ba1558198/)
 
