@@ -8,12 +8,12 @@ Welcome to my GitHub profile! I'm a **Full-Stack Web Developer** with over 5 yea
 - 🧑‍🏫 **Teaching**: I also teach part-time at **Afghan Academy**, sharing my expertise in web development
 - 🎥 **Course Creator**: I create courses focused on **Laravel**, **React.js**, **Vue.js**, and **FilamentPHP**
 - 🌍 From: Afghanistan, aiming to make a global impact through my work
-- 🛠️ **Current Project**: Laravel-based code refactoring application using **GPT API**
+- 🛠️ **Current Project**: A solution to assist elderly people by connecting them with family and GPs via  **Smart Devices**
 
 ### 🛠️ My Tech Stack
 
 - **Frontend**: HTML, CSS, JavaScript, Vue.js, React.js, Nuxt.js
-- **Backend**: Laravel, PHP, Node.js
+- **Backend**: Laravel, PHP
 - **Databases**: PostgreSQL, MySQL
 - **Mobile Development**: Flutter
 - **Cloud & DevOps**: AWS, Docker, CI/CD pipelines
@@ -28,9 +28,21 @@ Welcome to my GitHub profile! I'm a **Full-Stack Web Developer** with over 5 yea
 
 ### 🏆 Notable Projects
 
-- **Ethel Care Application**: A solution to assist elderly people by connecting them with family and GPs via smart devices
-- **Laravel Admin Panels Course**: Teaching how to build a School MIS and Ticket System using **FilamentPHP**
-- **Laravel-React.js Course**: Providing in-depth knowledge of Laravel and React.js for Persian-speaking developers
+- **Ethel Care Application**: A solution to assist elderly people by connecting them with family and GPs via smart devices for checking vitals and staying in touch.
+  
+- **KlassMeet**: An online platform for students and teachers to collaborate and learn together via virtual classrooms, offering real-time communication and learning resources.
+
+- **Afghan Academy Website**: The official website for Afghan Academy, offering a range of courses and educational content to empower students with modern development skills.
+
+- **OMNI AI Mobile Application**: An AI-driven app that allows patients to book GP appointments easily through mobile devices, integrating scheduling and notifications.
+
+- **Care Coordinator Mobile Application**: A mobile app designed to help families coordinate care for their elderly parents, improving communication and task management for family members.
+
+- **Pharmacy Management System**: A comprehensive system built to streamline the management of pharmacies, including inventory, sales tracking, and customer management.
+
+- **Laravel Admin Panels Course**: A course where I teach how to build a **School Management Information System (MIS)** and a **Ticket System** using **FilamentPHP**.
+
+- **Laravel-React.js Course**: In-depth educational content for Persian-speaking developers focused on the integration of **Laravel** and **React.js**.
 
 ### 💼 Connect with Me
 
