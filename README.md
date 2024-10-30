@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I'm a **Full-Stack Web Developer** with over 5 yea
 - 💻 **Current Role**: Full-Stack Developer at Connected Care Solutions (UK), working on the **Ethel Care Application** (Laravel backend, Nuxt.js frontend)
 - 🧑‍🏫 **Teaching**: I also teach part-time at **Afghan Academy**, sharing my expertise in web development
 - 🎥 **Course Creator**: I create courses focused on **Laravel**, **React.js**, **Vue.js**, **Livewire** and **FilamentPHP**
-- 🌍 From: Afghanistan, aiming to make a global impact through my work
+- 🌍 aiming to make a global impact through my work
 - 🛠️ **Current Project**: A solution to assist elderly people by connecting them with family and GPs via  **Smart Devices**
 
 ### 🛠️ My Tech Stack
